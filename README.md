@@ -41,7 +41,3 @@ This repository contains a collection of Python scripts covering various topics 
 If you'd like to contribute to this repository, feel free to submit pull requests with improvements, additional scripts, or corrections.
 
 Happy coding!
-
----
-
-Replace `<repository-url>` with the actual URL if your repository is hosted remotely. Adjust the instructions based on your project structure and preferences.
